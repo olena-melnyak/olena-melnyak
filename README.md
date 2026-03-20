@@ -18,6 +18,7 @@ I enjoy working with data — organizing it, spotting patterns, and turning it i
 - Power BI / Tableau
 - Data Analysis
 - Data Visualization
+
 #### 📍 About Me
 📍 Kyiv, Ukraine  
 💼 Open to remote opportunities  
