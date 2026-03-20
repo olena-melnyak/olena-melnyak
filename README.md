@@ -5,15 +5,12 @@ I enjoy working with data — organizing it, spotting patterns, and turning it i
 - **🚗 Metrocar: Funnel & Conversion Analysis (Power BI, SQL)** — funnel drop-offs, wait time → cancellations, peak demand hours & operational recommendations.
 </br>👉 Repo: [https://github.com/metrocar-analysis](https://github.com/olena-melnyak/metrocar-analysis)
 
-#### 🛒 SQL E-commerce Analysis
-- JOINs, GROUP BY
-- Window functions
-- KPI metrics
-👉 Repo: https://github.com/your-username/sql-project
-#### 📊 Dashboard (Power BI / Excel)
-- Data visualization
-- Interactive dashboards
-👉 Repo: https://github.com/your-username/dashboard
+- **🚲 Bike Rental Analysis (Power BI, SQL)** — data visualization project exploring how weather, time, and temperature affect bike demand using Python and Matplotlib.
+</br>👉 Repo: [https://github.com/metrocar-analysis](https://github.com/olena-melnyak/bike-rental-analysis)
+
+- **📊 User Activity Analysis(Google Sheets, Pivot tables, VLOOKUP )** - User Activity Analysis — dashboard and pivot tables exploring user engagement and conversion by subscription: 10K users, 503 min avg time, ~50% conversion, $133K revenue.
+  </br>👉 Repo: [https://github.com/metrocar-analysis](https://github.com/olena-melnyak/user-activity-analysis)
+
 #### 🧰 Core Tools & Skills
 - Python (pandas)
 - SQL 
