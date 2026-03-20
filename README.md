@@ -2,8 +2,8 @@
 I enjoy working with data — organizing it, spotting patterns, and turning it into clear insights that support decision-making.
 </br>**Goal**: Data Analyst
  ### 🚀 Featured Projects
-- **🚗 Metrocar: Funnel & Demand Analysis (Power BI + DAX)** — funnel drop-offs, wait time → cancellations, peak demand hours & operational recommendations.
-</br>👉 Repo: https://github.com/metrocar-analysis
+- **🚗 Metrocar: Funnel & Demand Analysis (Power BI, SQL)** — funnel drop-offs, wait time → cancellations, peak demand hours & operational recommendations.
+</br>👉 Repo: [https://github.com/metrocar-analysis](https://github.com/olena-melnyak/metrocar-analysis)
 
 #### 🛒 SQL E-commerce Analysis
 - JOINs, GROUP BY
