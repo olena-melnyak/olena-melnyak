@@ -1,10 +1,7 @@
 # 👋 Hi, I'm Olena
+I enjoy working with data — organizing it, spotting patterns, and turning it into clear insights that support decision-making.
 
-I enjoy bringing order to data — organizing it, identifying patterns, and turning it into clear, actionable insights.
-
-🎯 Goal: Data Analyst / Reporting Analyst
-
----
+**Goal**: Data Analyst / Reporting Analyst
 
 ## 🚀 Featured Projects
 
@@ -14,42 +11,29 @@ I enjoy bringing order to data — organizing it, identifying patterns, and turn
 - Trend analysis
 👉 Repo: https://github.com/your-username/sales-analysis
 
----
-
 ### 🛒 SQL E-commerce Analysis
 - JOINs, GROUP BY
 - Window functions
 - KPI metrics
 👉 Repo: https://github.com/your-username/sql-project
 
----
-
 ### 📊 Dashboard (Power BI / Excel)
 - Data visualization
 - Interactive dashboards
 👉 Repo: https://github.com/your-username/dashboard
 
----
-
 ## 🧰 Core Tools & Skills
-
 - Python (pandas)
-- SQL (PostgreSQL)
+- SQL 
 - Excel / Google Sheets
 - Power BI / Tableau
 - Data Analysis
 - Data Visualization
 
----
-
 ## 📍 About Me
-
 📍 Kyiv, Ukraine  
 💼 Open to remote opportunities  
-📧 your.email@gmail.com  
-
----
+📧 olena.melnyak@gmail.com 
 
 ## 🔗 Let's Connect
-
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: https://www.linkedin.com/in/olena-melnyk-5734523b1/
