@@ -3,7 +3,8 @@ I enjoy working with data — organizing it, spotting patterns, and turning it i
 </br>**Goal**: Data Analyst
  ### 🚀 Featured Projects
 - **🚗 Metrocar: Funnel & Demand Analysis (Power BI + DAX)** — funnel drop-offs, wait time → cancellations, peak demand hours & operational recommendations.
-</br>👉 Repo: https://github.com/your-username/sales-analysis
+</br>👉 Repo: https://github.com/metrocar-analysis
+
 #### 🛒 SQL E-commerce Analysis
 - JOINs, GROUP BY
 - Window functions
